@@ -351,3 +351,11 @@ antonio@labnet5:~/docker/antonioesposito1-docker-c-hello$ docker run -it antonio
 antonio@labnet5:~/docker/antonioesposito1-docker-c-hello$ 
 ```
 
+## Eseguiamo logout dal degistro
+
+```
+antonio@labnet5:~/docker/antonioesposito1-docker-c-hello$ docker logout 
+Removing login credentials for https://index.docker.io/v1/
+antonio@labnet5:~/docker/antonioesposito1-docker-c-hello$ 
+```
+
