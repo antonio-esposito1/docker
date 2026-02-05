@@ -1,5 +1,7 @@
 # Docker su om1l242
 
+## Docker Version
+La versione di API  minima lato client deve essere 1.24
 ```
 [EspositoA1@om1l242 ~]$ sudo docker version
 Client: Docker Engine - Community
