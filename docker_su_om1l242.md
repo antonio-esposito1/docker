@@ -125,7 +125,7 @@ drwx------.  2 root root    6 Nov 28 18:16 tmp
 drwx-----x.  2 root root   50 Nov 28 17:58 volumes
 [root@om1l242 docker]# 
 ```
-
+## Container inspection
 
 ```
 [root@om1l242 etc]# docker ps
